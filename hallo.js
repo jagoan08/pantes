@@ -1,1 +1,1 @@
-vWASFHASFNA
+const pair = 'extradinori';
